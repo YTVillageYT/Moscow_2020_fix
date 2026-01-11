@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metrostroi_train/81-775/81-775_lamps"
+        "$selfillum" "1"
+        "$selfillumint" "[1 1 1]"
+}

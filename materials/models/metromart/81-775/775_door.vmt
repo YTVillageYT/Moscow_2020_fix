@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metromart/81-775/775_door"
+	"$model" "1"
+	"$allowalphatocoverage" "1"
+	"$phong" "1"
+	"$phongexponent" "64"
+	"$phongboost"	"16"
+	"$phongfresnelranges"	"[0.1 0.1 0.1]"
+	"$bumpmap"				"models/metrostroi_train/81-502/glass_n"
+}

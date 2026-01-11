@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gif2\0030"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

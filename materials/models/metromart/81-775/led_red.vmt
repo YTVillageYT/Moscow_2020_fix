@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/metromart/81-775/led_red"
+        "$selfillum" "1"
+        "$selfillumint" "[0.5 0.5 0.5]"
+}

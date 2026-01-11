@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/metrostroi_train/81-775/glass"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.3 0.3 0.3]"         
+    "$translucent" "1"                   
+    "$additive" "0"                       
+    "$alpha" "0.4"                        
+    "$nocull" "1"                         
+    "$model" "1"
+}

@@ -1,0 +1,12 @@
+VertexlitGeneric
+{
+    $basetexture models/metrostroi_train/81-775/81-775_cab_controls
+	$bumpmap models/metrostroi_train/81-775/81-775_cab_controls_n
+	$mraotexture models/metrostroi_train/81-775/81-775_cab_controls_mrao
+	
+	$UseENVAmbient 0
+	$envmap env_cubemap
+	
+	$model 1
+	$surfaceprop metal
+}

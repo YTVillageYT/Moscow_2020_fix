@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "dss/81-775_v2/slon/slon_000062"
+	$nolod 1
+	$ignorez 1
+	$vertexcolor 1
+	$vertexalpha 1
+}

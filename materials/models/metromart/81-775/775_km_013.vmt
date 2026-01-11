@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/metromart/81-775/775_km_013"
+	"$bumpmap"		"models/metromart/81-775/pult_1_n"
+	"$alphatest" "1"
+	"$model" "1"
+	"$phong" "1"
+}

@@ -1,0 +1,9 @@
+VertexlitGeneric
+{
+	$basetexture models/metrostroi_train/81-775/no_material
+	$bumpmap models/emptyn
+	
+	$phong 1
+    $phongboost 1
+    $phongfresnelranges "[1 1 1]"
+}
